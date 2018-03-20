@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 19, 2018, 7:32:01 PM
+    Author     : 00140421
+*/
+#cabecera{
+    font-family: time new rome;
+    font-size: 60px;
+    text-align: center;
+    color:#000000
+}
+#eslogan{
+    font-family: time new rome;
+    font-size: 30px;
+    text-align: center;
+    color:#000000
+}
+ul li{
+    display: inline;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: arial;
+    background: #006699;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+#menu{
+      text-align:center; 
+}
+img{
+    border-radius: 10px;
+    text-align: center
+}
+#imagenes {
+    text-align: center
+}
+#cuerpo{
+    text-align: center;
+    font-family: calibri;
+    font-size: 18px;
+    color: #000000;
+}
+#pie{
+    background: 000000;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+    width:700px;
+    background: #E0E0E0;
+    padding-box:5px;
+    font-size: 15px
+}
+#formulario{
+    text-align: center;
+    margin: 1em;
+    border-width: 2px;
+    inline-box-align: 250px;
+    background: #E0E0E0;
+    border-radius: 20px;
+    padding: lenght;
+    padding-box:5px;
+}
+form{
+    margin-bottom: 5px
+}
+label{
+    font-family: Arial;
+    width: 100px;
+    text-align: right;
+    display: inline;
+}
+input{
+    width: 200px;
+}
+textArea{
+    width: 400px;
+    vertical-align: 
+}
+a{
+     text-decoration: none;
+}
+a:hover{
+    color:#E74C3C;
+    font-size: 15px;
+}
+a:visited{
+    color: white;
+}
+#registro{
+    font-family: time new rome;
+    font-size: 30px;
+    text-align: center;
+    color:#000000
+}
